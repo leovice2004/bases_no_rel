@@ -31,6 +31,9 @@ hadoop/mount/datanode-*
 hadoop/mount/namenode
 hadoop/mount/nodemanager-*
 hadoop/mount/resourcemanager
+hadoop/mount/hive-metastore
+hadoop/mount/hive-metastore-db
+hadoop/mount/hive-server2
 hadoop/envs
 hadoop/data.csv
 
